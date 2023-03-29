@@ -37,7 +37,6 @@ int rightArr[3] = {110, 10, 11};
 int leftArr[5] = {110, 10, 0, 1, 100};
 int isTurning = 0;
 
-
 // object initialization
 NewPing senorFront(senorFront_PIN_TRIG, senorFront_PIN_ECHO, max);
 NewPing senorLeft(senorLeft_PIN_TRIG, senorLeft_PIN_ECHO, max);
